@@ -4,7 +4,7 @@ web3==5.31.4
 humanize==4.6.0
 termplotlib==0.3.9
 cachetools==5.3.3
-bidict==0.22.1
+bidict==0.23.1
 tinydb==4.7.1
 requests==2.32.3
 uptime==3.0.1
