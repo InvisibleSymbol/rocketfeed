@@ -39,7 +39,7 @@ services:
       com.centurylinklabs.watchtower.enable: true
 
   mongodb:
-    image: mongo:6.0.5
+    image: mongo:6.0.19
     volumes:
       - ./mongodb:/data/db
     restart: unless-stopped
