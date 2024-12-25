@@ -33,7 +33,7 @@ suntimes==1.1.2
 icalendar==5.0.13
 regex==2023.8.8
 tiktoken==0.5.2
-anthropic==0.18.1
+anthropic==0.42.0
 HomeAssistant-API==4.2.2.post2
 bs4==0.0.2
 pydantic==2.8.2
